@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.JtpComposeDatePick" parent="android:Theme.Material.Light.NoActionBar">
+
+    </style>
+
+
+
+</resources>
+
+
+<!--// <item name="android:color">@color/accent</item>-->
+
+<!--<item name="android:color">#ff6d00</item>-->
+<!--<item name="android:textColorLink">@color/primary</item>-->
